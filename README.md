@@ -1,2 +1,5 @@
 # hello-world
-This is my first development on BlueMix
+
+Hello humans or not 
+
+This is my first development on BlueMix+Github
